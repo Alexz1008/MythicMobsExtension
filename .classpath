@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="lib/Factions.jar"/>
+	<classpathentry kind="lib" path="lib/HolographicDisplays.jar"/>
+	<classpathentry kind="lib" path="lib/LibsDisguises.jar"/>
+	<classpathentry kind="lib" path="lib/MassiveCore.jar"/>
+	<classpathentry kind="lib" path="lib/MobArena.jar"/>
+	<classpathentry kind="lib" path="lib/MythicMobs-4.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/ProtocolLib420.jar"/>
+	<classpathentry kind="lib" path="lib/rpgitem-reloaded-1.11-v.231.jar"/>
+	<classpathentry kind="lib" path="lib/spigot-1.10.2.jar"/>
+	<classpathentry kind="lib" path="lib/spigot-1.11.2.jar"/>
+	<classpathentry kind="lib" path="lib/spigot-1.12.2.jar"/>
+	<classpathentry kind="lib" path="lib/worldedit-bukkit-6.1.jar"/>
+	<classpathentry kind="lib" path="lib/worldguard-6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
